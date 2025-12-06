@@ -1,10 +1,6 @@
 ## Hi there...👋
 
-## I am Vertika Bajpai currently a second year undergraduate in IIT BHU.
-
-•💻 I engaged in learning  App development in Flutter,Kotlin using backend technologies like MongoDB, NodeJS.
-
-•📚I am enthusiastic in contributing in Open Source.
+## I am Vertika Bajpai currently a final year undergraduate in IIT BHU.
 
 •📨 Reach me at: bajpaivertika22@gmail.com
 
@@ -15,7 +11,9 @@ Kotlin |
  C/C++ |
  Java |
  Android | 
- HTML| CSS
+ HTML| CSS |
+ MongoDB | Express | NodeJS |
+ React | .NET | Blazor | SQL
 
 
 
